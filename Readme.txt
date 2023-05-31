@@ -1,4 +1,4 @@
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10081014
+Paper Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10081014
 
 This is the code of punished-weighted naive Bayes for implicit intention inference, please cite [1].
 P_io.txt and P_i.txt are obtained by statistical analysis from experimental data, and the calculation details can be found in [2].
