@@ -8,7 +8,3 @@ test.m  is  the main function and the acc is the mean inference accuracy.
 
 
 [1] Gao Z, Wu S, Wan Z, et al. A Hybrid Method for Implicit Intention Inference Based on Punished-Weighted Naïve Bayes[J]. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023, 31: 1826-1836.
-
-[2] Jiang L, Zhang L, Yu L, et al. Class-specific attribute weighted naive Bayes[J]. Pattern recognition, 2019, 88: 321-330.
-
-[3] Zhang J, Sanderson A C. JADE: adaptive differential evolution with optional external archive[J]. IEEE Transactions on evolutionary computation, 2009, 13(5): 945-958.
